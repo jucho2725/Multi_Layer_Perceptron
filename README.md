@@ -1,4 +1,4 @@
-이것은 Multi Layer Perceptron(mlp) 을 위한 스터디 당시 사용했던 코드 입니다.
+이것은 Multi Layer Perceptron(mlp) 스터디 당시 설명을 위해 사용했던 코드 입니다.
 
 코드에는 모두 original source URL 이 포함되어 있으며, 필요한 부분을 수정해 사용하였습니다.  
 

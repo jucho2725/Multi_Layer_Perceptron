@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Dec 17 17:37:46 2018
+
 @author: Jin Uk, Cho
-inspired from https://github.com/jgabriellima/backpropagation
+original source: https://github.com/jgabriellima/backpropagation
 """
 
 import random

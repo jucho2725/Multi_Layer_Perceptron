@@ -10,7 +10,7 @@ back_propagation.py - 히든 레이어가 1층인 신경망을 구현한 코드�
 
 mlp_plot.ipynb - mlp 가 데이터를 어떻게 구분하는 지를 시각적으로 나타낸 플롯들과 sklearn 에서 제공하는 MLPClassifier 을 이용하여  mnist 문제를 풀어본 코드가 있습니다. 
 
-
+mglearn 폴더와 preamble.py - 시각화를 위한 도구들입니다. "파이썬 라이브러리를 활용한 머신러닝" 책 예제 레포지토리에서 가져왔습니다.
 
 
 

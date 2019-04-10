@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Jan 14 17:37:46 2018
+Created on Mon Jan 14 17:37:46 2019
 
 @author: Jin Uk, Cho
 original source: https://github.com/jgabriellima/backpropagation
